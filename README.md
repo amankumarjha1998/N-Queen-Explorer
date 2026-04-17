@@ -10,7 +10,7 @@
 
 ## Deployment
 
-- [Deployment Link](https://n-queens-explorer.vercel.app/)
+- [Deployment Link](https://amankumarjha1998.github.io/N-Queen-Explorer/)
 
 ## Screenshot
 
